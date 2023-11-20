@@ -1,4 +1,4 @@
-# AdventureWorks-Cycles-Business-Intelligence-Project
+# AdventureWorks Cycles Business Intelligence Project
 
 # Project Description
 This project was developed as a part of the Power BI Desktop course offered by Maven Analytics. The objective was to transform raw data from AdventureWorks Cycles, a fictional bicycle manufacturing company, into valuable insights using advanced Business Intelligence and data analysis techniques.
