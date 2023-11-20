@@ -4,10 +4,10 @@
 This project was developed as a part of the Power BI Desktop course offered by Maven Analytics. The objective was to transform raw data from AdventureWorks Cycles, a fictional bicycle manufacturing company, into valuable insights using advanced Business Intelligence and data analysis techniques.
 
 # Key Features
-## KPI Tracking: Interactive dashboards for monitoring key performance indicators.
-Regional Performance Analysis: Comparative analysis across different regions to identify areas of success and opportunities for improvement.
-Product Trend Analysis: Insights into customer preferences and product sales patterns.
-High-Value Customer Identification: Focusing on customers who bring the most value to the company.
+- KPI Tracking: Interactive dashboards for monitoring key performance indicators.
+- Regional Performance Analysis: Comparative analysis across different regions to identify areas of success and opportunities for improvement.
+- Product Trend Analysis: Insights into customer preferences and product sales patterns.
+- High-Value Customer Identification: Focusing on customers who bring the most value to the company.
 
 # Tools and Technologies Used
 - Power BI Desktop
