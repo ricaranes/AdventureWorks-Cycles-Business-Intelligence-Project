@@ -28,5 +28,5 @@ To view the reports and dashboards:
 # Contact
 Ricardo Anes – [ricaranes@gmail.com]
 
-LinkedIn Profile Link - [LinkedIn URL]
+LinkedIn Profile Link - [(https://www.linkedin.com/in/ricardo-anes/)https://www.linkedin.com/in/ricardo-anes/]
 
