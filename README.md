@@ -26,7 +26,7 @@ To view the reports and dashboards:
 - Open the .pbix files in Power BI Desktop.
 
 # Contact
-Ricardo Anes – [ricaranes@gmail.com]
+Ricardo Anes – ricaranes@gmail.com
 
-LinkedIn Profile Link - [(https://www.linkedin.com/in/ricardo-anes/)https://www.linkedin.com/in/ricardo-anes/]
+LinkedIn Profile Link - https://www.linkedin.com/in/ricardo-anes/)https://www.linkedin.com/in/ricardo-anes/
 
